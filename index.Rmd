@@ -1,5 +1,5 @@
 ---
-title: "tufts"
+title: "index"
 ---
 
 ```{r setup, include=FALSE}
