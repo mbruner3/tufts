@@ -1,12 +1,4 @@
 name: "tufts"
 output_dir: "docs"
-navbar:
-  title: "tufts"
-  left:
-  - text: "Home"
-   href: index.html
-  - text: "Tufts University"
-   href: tufts.html
 output:
   html_document:
- theme: cosmo
